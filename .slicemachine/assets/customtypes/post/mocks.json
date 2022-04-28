@@ -1,0 +1,36 @@
+{
+  "id": "1cec067e-70d3-4be9-9129-8a8af473af50",
+  "uid": "ratione-quis-sit",
+  "type": "post",
+  "data": {
+    "Title": [
+      {
+        "type": "heading1",
+        "text": "Reinvent seamless portals",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "heading1",
+        "text": "Transition user-centric users",
+        "spans": []
+      },
+      {
+        "type": "image",
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1586952518485-11b180e92764?w=900&h=500&fit=crop"
+      },
+      {
+        "type": "paragraph",
+        "text": "Non velit labore anim pariatur ea esse dolore veniam sunt labore aliqua. Esse qui sint nostrud duis mollit eu.",
+        "spans": []
+      }
+    ]
+  }
+}
